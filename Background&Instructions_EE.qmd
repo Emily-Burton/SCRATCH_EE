@@ -41,7 +41,7 @@ Measurement = a means to evaluate an alternatives performance of an objective in
 |---------------|---------------|---------------|---------------|---------------|
 | <img width="30/"/> | <img width="60/"/> | <img width="90/"/> | <img width="180/"/> | <img width="100/"/> |
 | O1 | Minimize tick populations at home | Ticks collected / hour dragging. | 0 — 150 ticks / hr | Scale based on ITCH data of tick collection in RI residents yards |
-| O2 | Minimize encounters at home | Ticks encountered (i.e., found attached or crawling) / hour in yard | Scale: 0 — 50 |  |
+| O2 | Minimize tick bites at home | Tick bites (i.e., found attached to person) per person per year | Scale: 0 — 15 tick bites |  |
 | O3 | Minimize negative environmental impacts (i.e., damage to the ecosystem and loss of non-target species) | Negative impact on environment | Scale: 0 — 100 (likert scale) <br><br>0 = No negative impact<br>25 = Minimal negative impact impact<br>50 = Moderate negative impact<br>75 = Major negative impact<br>100 = Environment completely negatively impacted |  |
 | O4 | Minimize financial costs | Cost of tick control or personal protective measure in USD for a single tick active season. | Scale: \$0 — $\geq$\$5000 USD | Scale based on [Schulze et al. 2023](https://academic.oup.com/jme/article/60/5/1048/7237349) |
 | O5 | Minimize time spent | Hours required to effectively deploy tick control or personal protective measure during active tick season (includes labor hours for paid work) | Scale: 0 - 72hrs |  |
