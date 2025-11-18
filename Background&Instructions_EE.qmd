@@ -38,7 +38,7 @@ Given the lack of empirical data for alternatives performance of different objec
 | ID | Objective | Measurement | Scale | Sources |
 |---------------|---------------|---------------|---------------|---------------|
 | <img width="30/"/> | <img width="60/"/> | <img width="90/"/> | <img width="180/"/> | <img width="100/"/> |
-| O1 | Minimize tick populations at home | Ticks collected / hour dragging. | 0 — 150 ticks / hr | Scale based on ITCH data of tick collection in RI residents yards |
+| O1 | Minimize tick populations at home | Nymphs collected / hour dragging. | 0 — 150 ticks / hr | Scale based on ITCH data of tick collection in RI residents yards |
 | O2 | Minimize tick bites at home | Tick bites (i.e., found attached to person) per person per year | Scale: 0 — 15 tick bites |  |
 | O3 | Minimize non-target environmental impacts (i.e., damage to the ecosystem and loss of non-target species) | Impact on environment | Scale: 0 — 100 (Likert scale) <br><br>0 = No impact<br>25 = Minimal impact impact<br>50 = Moderate impact<br>75 = Major impact<br>100 = Environment completely impacted |  |
 | O4 | Minimize financial costs | Cost of tick control or personal protective measure in USD per year. | Scale: \$0 — $\geq$\$5000 USD | Scale based on [Schulze et al. 2023](https://academic.oup.com/jme/article/60/5/1048/7237349) |
@@ -99,3 +99,5 @@ We then have provided opportunities for experts to explain why they may lack con
     -   Envision a residence in New England with a yard that contains both lawn and forest edge.
 -   What should I do if I am completely unfamiliar with an alternative?
     -   If you do not recognize an alternative, you can either input a value based on the description of the alternative and place your confidence very low (\<10%) with a note that says "Not familiar with alternative" or you can skip inputting data for that alternative.
+-   What life stage should I focus on?
+    -   For objective 1, we want to know about blacklegged nymphs. For all the other objectives, consider life stages as relevant. For instance, if an alternative is typically only recommended for larvae and nymphs, consider the cost and effort for only those life stages. If an alternative can be used for all life stages, consider the cost and effort for all three life stages.
